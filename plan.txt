@@ -1,0 +1,45 @@
+# dashboard
+1. admin
+As a admin I can add teacher department wise
+As a admin I can read all teacher
+As a admin I can edit all teacher
+As a admin I can delete all teacher
+As a admin I can create notice
+
+
+2. teacher
+As a teacher I can approve a students 
+As a teacher I can create a notice // notice should be for all // notice should be specific for certain department
+As a teacher I can upload syllabus   
+As a teacher I can see all assignments 
+As a teacher I can upload results
+As a teacher I can take attendance, crate attendance, show attendance
+As a Teacher I can update my profile
+
+
+3. students 
+As a student see my results 
+As a student I can see my attendance
+As a student I can see upload assignments 
+As a student I can update my profile info
+
+4. Blog [optional]
+This site will have a blog where student, teacher and admin can do blog 
+
+# table
+users 
+department
+semester 
+subject
+notice
+assignments
+syllabus
+attendance
+results
+posts 
+comments 
+
+
+
+
+

@@ -13,4 +13,8 @@
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('home');
+
+Route::get('dashboard/teacher', 'PageController@teacher');
+Route::get('dashboard/student', 'PageController@student');
+Route::get('dashboard/admin', 'PageController@admin');
